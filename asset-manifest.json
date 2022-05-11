@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Flatify/static/css/main.116d6f8a.css",
+    "main.js": "/Flatify/static/js/main.623ffb99.js",
+    "index.html": "/Flatify/index.html",
+    "main.116d6f8a.css.map": "/Flatify/static/css/main.116d6f8a.css.map",
+    "main.623ffb99.js.map": "/Flatify/static/js/main.623ffb99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116d6f8a.css",
+    "static/js/main.623ffb99.js"
+  ]
+}
